@@ -7,3 +7,6 @@
 * [International Mortality and Smoking Statistics (IMASS)](http://www.pnlee.co.uk/imass.htm)
 * [Institute of Health Metrics and Evaluation (IHME), Global Burden of Disease (GBD)](http://ghdx.healthdata.org/gbd-results-tool)
 * [World Health Organization (WHO) Global Health Observatory (GHO)](http://apps.who.int/gho/data/node.home)
+## 图表与代码展示
+### 死亡因素词云图
+
