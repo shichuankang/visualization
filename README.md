@@ -9,4 +9,7 @@
 * [World Health Organization (WHO) Global Health Observatory (GHO)](http://apps.who.int/gho/data/node.home)
 ## 图表与代码展示
 ### 死亡因素词云图
+* [数据表](https://github.com/shichuankang/visualization/blob/master/%E6%AD%BB%E4%BA%A1%E5%9B%A0%E7%B4%A0/death_reason.csv)
+* [ipynb文件](https://github.com/shichuankang/visualization/blob/master/%E6%AD%BB%E4%BA%A1%E5%9B%A0%E7%B4%A0/%E6%AD%BB%E4%BA%A1%E5%9B%A0%E7%B4%A0.ipynb)
+* [html文件](https://github.com/shichuankang/visualization/blob/master/%E6%AD%BB%E4%BA%A1%E5%9B%A0%E7%B4%A0/%E6%AD%BB%E4%BA%A1%E5%9B%A0%E7%B4%A0%E8%AF%8D%E4%BA%91%E5%9B%BE.html)
 
